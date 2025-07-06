@@ -12,6 +12,6 @@ To run the notebook
 - go to the directory for the clone __on your filesystem__
 - start Julia
 - Type ```notebook(;dir=pwd())``` at the julia prompt
-- click on the notebook ```N3Presults.ipynb```
+- click on the notebook ```HalfTime.ipynb```
 - The notebook should open. When it does click on ```cell``` and select the ```run all``` option.
 
