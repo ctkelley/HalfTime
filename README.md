@@ -1,4 +1,4 @@
-__HalfTime__ is the repo for the half precision stuff I am doing for particle transporot. The main even is an IJulia notebook.
+__HalfTime__ is the repo for the half precision stuff I am doing for particle transport. The main even is an IJulia notebook.
 
 ## Dependencies  
 To run this notebook you will need to install these packages
