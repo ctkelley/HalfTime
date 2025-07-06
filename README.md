@@ -3,7 +3,7 @@ __HalfTime__ is the repo for the half precision stuff I am doing for particle tr
 ## Dependencies  
 To run this notebook you will need to install these packages
 - IJulia
-- PyPlot
+- BenchmarkTools
 
 ## Running the codes
 To run the notebook 
