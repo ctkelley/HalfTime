@@ -1,5 +1,5 @@
 function sum_test(n = 1000)
-    # M2 Mac using the Apple Accelerate Blas:w
+    # M2 Mac using the Apple Accelerate Blas
     # random Float16 vector
     vh=rand(Float16, n);
     vh ./ n
