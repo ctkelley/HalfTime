@@ -11,5 +11,7 @@ function sum_test(n = 1000)
     println(sumh, "  ", sumd)
     #compare results
     del=abs(sumd-sumh)/sumd
-    return del
+    th=@belapsed sum($vh)
+    td=@belapsed sum($vd)
+    return (del, th, td)
 end
